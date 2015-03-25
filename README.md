@@ -1,15 +1,13 @@
 # WhatsApp sharing button with ico moons icon
 
 This is a slightly modified version of the https://github.com/kriskbx/whatsapp-sharing/ repo.  
-I plan to implement an upload of any svg icon while implementing a whatsApp into your site.  
+I plan to implement an upload of any svg icon for integrating whatsApp into your site.  
 Perhaps this will be a forked solution into the existing repo.
 
 ## Installation
 
 ### 1. Download
 
-* With Npm: `npm install whatsapp-sharing`
-* With Bower: `bower install whatsapp-sharing`
 * With Git: `git clone https://github.com/kriskbx/whatsapp-sharing.git`
 * Manually: [https://github.com/kriskbx/whatsapp-sharing/releases](https://github.com/kriskbx/whatsapp-sharing/releases) 
 
