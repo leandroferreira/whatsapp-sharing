@@ -1,25 +1,24 @@
 {
-  "name": "whatsapp-sharing",
-  "version": "1.2.3",
-  "description": "WhatsApp Sharing Button",
+  "name": "whatsapp-sharing-ico-moon",
+  "version": "1.0.0",
+  "description": "WhatsApp Sharing Button using ico moon's svg icon. This is a stripped down version of Kris Siepert, John Brüggemann and Daniel Stopp's existing implementation. Thanks for the heavy lifting guys",
   "main": "-",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kriskbx/whatsapp-sharing.git"
+    "url": "https://github.com/alexmgrant/whatsapp-sharing.git"
   },
   "keywords": [
     "whatsapp",
     "sharing"
   ],
-  "author": "teamkbx",
+  "author": "alexmgrant",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kriskbx/whatsapp-sharing/issues"
+    "url": "https://github.com/alexmgrant/whatsapp-sharing/issues"
   },
-  "homepage": "http://whatsapp-sharing.com",
   "devDependencies": {
 	"grunt": "~0.4.1",
 	"grunt-contrib-clean": "~0.4.1",
