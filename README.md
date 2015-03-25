@@ -9,7 +9,7 @@ Perhaps this will be a forked solution into the existing repo.
 ### 1. Download
 
 * With Git: `git clone https://github.com/kriskbx/whatsapp-sharing.git`
-* Manually: [https://github.com/kriskbx/whatsapp-sharing/releases](https://github.com/kriskbx/whatsapp-sharing/releases) 
+* Manually: [https://github.com/alexmgrant/whatsapp-sharing/releases](https://github.com/alexmgrant/whatsapp-sharing/releases) 
 
 Or include the hosted version on [jsdelivr](http://www.jsdelivr.com/): `//cdn.jsdelivr.net/whatsapp-sharing/1.2.3/whatsapp-button.js`
 
