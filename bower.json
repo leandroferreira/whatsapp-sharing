@@ -1,9 +1,10 @@
 {
-  "name": "whatsapp-sharing",
-  "version": "1.2.3",
-  "homepage": "https://github.com/kriskbx/whatsapp-sharing",
+  "name": "custom-whatsapp",
+  "version": "1.3.0",
+  "homepage": "https://github.com/alexmgrant/whatsapp-sharing",
   "authors": [
-    "kriskbx"
+    "kriskbx",
+    "alexmgrant"
   ],
   "main": "whatsapp sharing button generator",
   "keywords": [

@@ -1,6 +1,6 @@
 {
-  "name": "whatsapp-sharing-ico-moon",
-  "version": "1.0.0",
+  "name": "custom-whatsapp",
+  "version": "1.3.0",
   "description": "WhatsApp Sharing Button using ico moon's svg icon. This is a stripped down version of Kris Siepert, John Brüggemann and Daniel Stopp's existing implementation. Thanks for the heavy lifting guys",
   "main": "-",
   "scripts": {
